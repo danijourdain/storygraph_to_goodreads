@@ -1,9 +1,11 @@
 # Storygraph Export to Goodreads format
 
-Trying to decide which reading tracking app to use? Are you frustrated not being able to swap exports between apps easily? Me too. That's why I created this application to convert the Storygraph exports into the Goodreads format so it can be imported into other apps (Goodreads, Fable, etc.)
+Trying to decide which reading tracking app to use? Are you frustrated not being able to swap exports between apps easily? Me too. That's why I created this application to convert the Storygraph exports into the Goodreads format so it can be imported into Goodreads.
+
+The extra information such as publication year is not available from the Storygraph export, so my current solution is to export from Storygraph, run the export through this program, import the data into Goodreads, then export the data from Goodreads into Fable.
 
 ## How to use
-
+run `main.py`
 
 ## What it does
 
